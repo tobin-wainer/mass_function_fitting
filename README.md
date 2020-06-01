@@ -6,7 +6,7 @@ I will be utilizing MCMC simulations to fit both a Schechtar function and power 
 
 The Analysis will follow that of Johnson et. al 2017 http://adsabs.harvard.edu/abs/2017ApJ...839...78J
 
-The () folder is proof of concept where I am testing the code I wrote against the results from M31.
+The M31_MF_replication folder is proof of concept where I am testing the code I wrote against the results from M31.
 The data from this analysis is provided in apendix A of Johnson et. al 2016 https://doi.org/10.3847%2F0004-637x%2F827%2F1%2F33
 
 There will be a series of different codes that I be using, each building in complexty of the previous. 
