@@ -15,3 +15,7 @@ Then second: incporating the observational completeness function while still not
 Finally: incorperating both the observational completeness and the normalization (Schectar_Function_w/every)
 
 I will then push the final working code to the main repository to use on M33 data.
+
+
+
+
