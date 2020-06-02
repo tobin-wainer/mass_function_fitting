@@ -14,4 +14,6 @@ The first: Schectar_Fuction_wo_cpn is the simplist form of the Schectar Function
 Then second: incporating the observational completeness function while still not dealing with the normalization (Schectar_Function_wc_nn).
 Finally: incorperating both the observational completeness and the normalization (Schectar_Function_w/every)
 
+Also included is a Sample MCMC code that Anil gave me that uses M31 velocity dispersion data
+
 I will then push the final working code to the main repository to use on M33 data.
