@@ -14,8 +14,8 @@ The first: Schectar_Fuction_wo_cpn is the simplist form of the Schectar Function
 Then second: incporating the observational completeness function while still not dealing with the normalization (Schectar_Function_wc_nn).
 Finally: incorperating both the observational completeness and the normalization (Schectar_Function_w/every)
 
-I will then push the final working code to the main repository to use on M33 data.
+Also included is a code that only fits a power law opposed to the Schectar Function. (Power_Law_Distribution_Fitting)
 
-Another Test! Really trying to figure this shit out
+I will then push the final working code to the main repository to use on M33 data.
 
 
