@@ -8,4 +8,4 @@ Most_Simple_Power_Law_Distribution_Fitting:
 NO Schectar Function, only fitting the Power Law alpha parameter. Most Simple becasue we are assumiong that the Observational Completeness Function is 1 due to Fake-Data
 
 Schectar_Function:
-Schectar Function Fitting Including M_c claculations
+Schectar Function Fitting Including M_c parameter claculations. Most Simple becasue we are assumiong that the Observational Completeness Function is 1 due to Fake-Data
