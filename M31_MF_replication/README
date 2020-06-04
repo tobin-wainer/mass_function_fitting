@@ -1,0 +1,11 @@
+**Because we are using fake data on this branch, the Observational Completeness Function we are assuming to be 1**
+
+I have updated this folder after realizing thta the Normalization factor is something that **MUST** be included in even the most simple versions
+
+The Files in this Folder are described by the following:
+
+Most_Simple_Power_Law_Distribution_Fitting: 
+NO Schectar Function, only fitting the Power Law alpha parameter. 
+
+Schectar_Function:
+Schectar Function Fitting Including M_c claculations
