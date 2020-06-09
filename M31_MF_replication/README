@@ -11,3 +11,5 @@ Moast_Simple_Schectar_Function: Schectar Function Fitting Including M_c paramete
 Most Simple becasue we are assumiong that the Observational Completeness Function is 1 due to Fake-Data
 
 MCMC_Trial: Example emcee code from M31 velocity dispersions that Anil gave me
+
+Functions: The modules read into Jupyter Notebooks
