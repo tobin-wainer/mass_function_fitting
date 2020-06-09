@@ -34,7 +34,8 @@
     "from scipy.integrate import quad\n",
     "from scipy.integrate import nquad\n",
     "import pdb\n",
-    "import powerlaw"
+    "import powerlaw",
+    "import random"
    ]
   }
  ],
