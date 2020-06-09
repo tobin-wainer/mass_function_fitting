@@ -1,0 +1,5 @@
+These are the Modules that are read into the the Jupyter Notebooks
+
+Functions ending in _PL represent the Pure Power law version of the function.
+
+Functions ending in _SF represent the Schecter Function version of the function.
