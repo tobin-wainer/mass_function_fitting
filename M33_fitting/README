@@ -2,5 +2,5 @@ This is the Directory for CMF fitting involving M33
 
 The fitting code is found in "Fitting_Code", the necessary files are found in this directory
 
-The experiment to test our compleness funciton is also here.
+The experiments to test our compleness funciton, and a constant Mlim are also here.
 
